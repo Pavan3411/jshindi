@@ -1,0 +1,22 @@
+.box {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #000;
+    
+}
+.canvas {
+    display: flex;
+    gap: 10px;
+}
+#gray {
+    background-color: gray;
+}
+#white {
+    background-color: whitesmoke;
+}
+#blue {
+    background-color: blue;
+}
+#yellow {
+    background-color: yellow;
+}
